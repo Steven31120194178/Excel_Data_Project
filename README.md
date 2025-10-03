@@ -165,7 +165,7 @@ In other words, being a senior or in a specialized high-demand role can sometime
 
 
 
-![Median Salary Comparison](./project_excel/Images/Chart3.png)
+![Median Salary Comparison](project_excel/Images/Chart3.PNG)
 ## 👨🏻‍💻Key Insights
 
 - **Seniority Drives Pay**: Senior-level positions (especially in data science & engineering) earn $40k–$70k more than mid-level roles.
