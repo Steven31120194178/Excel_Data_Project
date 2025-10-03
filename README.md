@@ -108,8 +108,8 @@
 ## 💡Analysis:
 ### Low-skill, lower pay jobs
 
-- **Business Analyst**: lowest in both skills (~3.3) and salary (~$90K).
-- **Data Analyst**: slightly higher (4 skills, ~$90K).
+- **Business Analyst**: lowest in both skills (around 3.3 skills,  ~$85K).
+- **Data Analyst**: slightly higher (3.5 skills, ~$90K).
 
 ### Mid-range jobs
 
